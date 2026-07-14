@@ -2,71 +2,97 @@
 
 ## About
 
-This repository contains the projects completed as part of my **Data Analytics Internship** at **Oasis Infobyte**. The internship focuses on applying data analytics, machine learning, and data visualization techniques to solve real-world problems using Python.
+This repository contains the projects completed as part of my **Data Analytics Internship** at **Oasis Infobyte**. The internship focuses on applying data analytics, machine learning, and data visualization techniques to solve real-world business problems using Python.
 
 ## Intern Information
 
-* **Name:** S Pandi Durai
-* **Track:** Data Analytics
-* **Internship:** Oasis Infobyte
-* **Repository:** OIBSIP
+- **Name:** S Pandi Durai
+- **Domain:** Data Analytics
+- **Internship:** Oasis Infobyte
+- **Repository:** OIBSIP
 
 ## Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
 
 ## Projects
 
-### Task 1 – EDA on Retail Sales Data
+### Task 1 – Exploratory Data Analysis on Retail Sales Data
 
-* Perform exploratory data analysis on retail sales data.
-* Analyze customer behavior and sales trends.
-* Generate visualizations and business insights.
+**Objective:**
+Perform exploratory data analysis on a retail sales dataset to identify sales trends, customer behavior, product performance, and business insights.
 
-### Task 2 – Cleaning Data
+**Key Highlights:**
+- Data cleaning and preprocessing
+- Sales trend analysis
+- Category and sub-category analysis
+- Market and regional performance
+- Customer segment analysis
+- Correlation analysis
+- Business insights and recommendations
 
-* Handle missing values and duplicate records.
-* Detect and treat outliers.
-* Standardize and prepare data for analysis.
+---
 
-### Task 3 – Customer Segmentation Analysis
+### Task 2 – Customer Segmentation Analysis
 
-* Apply K-Means clustering.
-* Segment customers based on purchasing behavior.
-* Provide marketing recommendations for each segment.
+**Objective:**
+Segment customers into different groups based on purchasing behavior using the K-Means Clustering algorithm.
 
-### Task 4 – Sentiment Analysis
+**Key Highlights:**
+- Exploratory Data Analysis (EDA)
+- Feature selection
+- Data scaling
+- Elbow Method
+- K-Means Clustering
+- Customer cluster visualization
+- Business recommendations
 
-* Perform text preprocessing.
-* Build sentiment classification models.
-* Evaluate model performance using standard metrics.
+---
 
-### Task 5 – Sales Prediction Using Python
+### Task 3 – House Price Prediction using Linear Regression
 
-* Build regression models to predict sales.
-* Compare model performance.
-* Identify the most influential features affecting sales.
+**Objective:**
+Develop a Linear Regression model to predict house prices based on property features.
+
+**Key Highlights:**
+- Data preprocessing
+- Exploratory Data Analysis
+- Feature engineering
+- Linear Regression model
+- Model evaluation
+- House price prediction
+
+---
 
 ## Repository Structure
 
 ```text
 OIBSIP/
 │
+├── README.md
+│
 ├── DataAnalytics-L1-EDARetailSales/
-├── DataAnalytics-L1-CleaningData/
+│   ├── README.md
+│   ├── dataset.csv
+│   └── retail_sales_eda.ipynb
+│
 ├── DataAnalytics-L1-CustomerSegmentation/
-├── DataAnalytics-L1-SentimentAnalysis/
-├── DataAnalytics-L1-SalesPrediction/
-└── README.md
+│   ├── README.md
+│   ├── dataset.csv
+│   └── customer_segmentation.ipynb
+│
+└── DataAnalytics-L2-HousePricePrediction/
+    ├── README.md
+    ├── dataset.csv
+    └── house_price_prediction.ipynb
 ```
 
 ## Acknowledgement
 
-I would like to thank **Oasis Infobyte** for providing this internship opportunity and helping me enhance my practical skills in Data Analytics through hands-on projects.
-
+I sincerely thank **Oasis Infobyte** for providing me with the opportunity to complete this Data Analytics Internship. These projects have helped me strengthen my practical skills in data analysis, machine learning, data visualization, and solving real-world business problems using Python.
