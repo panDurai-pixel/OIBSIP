@@ -55,18 +55,19 @@ Segment customers into different groups based on purchasing behavior using the K
 
 ---
 
-### Task 3 – House Price Prediction using Linear Regression
+### Task 3 – Unveiling the Android App Market
 
 **Objective:**
-Develop a Linear Regression model to predict house prices based on property features.
+Analyze the Google Play Store dataset to uncover trends in app categories, ratings, installs, pricing, and user reviews, providing insights into the Android app market.
 
 **Key Highlights:**
-- Data preprocessing
-- Exploratory Data Analysis
-- Feature engineering
-- Linear Regression model
-- Model evaluation
-- House price prediction
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- App category analysis
+- Ratings and review analysis
+- Installs and pricing analysis
+- Data visualization
+- Business insights and recommendations
 
 ---
 
@@ -85,13 +86,12 @@ OIBSIP/
 ├── DataAnalytics-L1-CustomerSegmentation/
 │   ├── README.md
 │   ├── dataset.csv
-│   └── customer_segmentation.ipynb
+│   └── customer_segmentation_analysis.ipynb
 │
-└── DataAnalytics-L2-HousePricePrediction/
+└── DataAnalytics-L2-AndroidAppMarket/
     ├── README.md
     ├── dataset.csv
-    └── house_price_prediction.ipynb
-```
+    └── android_app_market_analysis.ipynb
 
 ## Acknowledgement
 
